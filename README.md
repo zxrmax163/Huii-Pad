@@ -14,10 +14,10 @@ Firmware
 KMK with support for OLED screen.
 
 BOM
-    10x Cherry MX Switches
-    10x DSA Keycaps
-    10x 1N4148 DO-35 Diodes.
-    1x 0.91" 128x32 OLED Display
-    1x XIAO RP2040
-    1x Case (3d printed parts)
+10x Cherry MX Switches
+10x DSA Keycaps
+1x 0.91" 128x32 OLED Display
+1x XIAO RP2040
+1x Case (3d printed parts)  
+  
 
