@@ -3,7 +3,7 @@
 Is a small Macropad wich has 10 keys and a oled screen.
 ![grafik](https://github.com/user-attachments/assets/db4c3bf0-86e1-4da8-9672-227c14230413)
 
-the cas is desinged to be printed in FDM with a pressfit cover and a SLA printed window for the controller.
+the cas is desinged to be printed in FDM with a pressfit cover and a SLA printed window for the controller. The case holds together by friction and the pcb gets screwt in with M3 Bolts and is hold by M3 Nuts in the case.
 # PCB
 ![grafik](https://github.com/user-attachments/assets/300e2016-51e7-4436-9415-e89a64040f84)
 The PCB is 100mm width and has a lenght of 68mm.
